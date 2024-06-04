@@ -10,6 +10,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain_core.prompts import ChatPromptTemplate
 import time
+import markdown
 from langchain_community.document_loaders import UnstructuredMarkdownLoader
 
 
