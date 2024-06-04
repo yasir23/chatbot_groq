@@ -6,3 +6,4 @@ unstructured
 langchain_community
 fastembed
 tqdm
+markdown
