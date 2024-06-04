@@ -19,7 +19,7 @@ from langchain_community.document_loaders import UnstructuredMarkdownLoader
 
 
 
-markdown_path ="./medical.md"
+markdown_path ="./chatbot/medical.md"
 
 
 
