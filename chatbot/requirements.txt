@@ -9,4 +9,4 @@ unstructured
 markdown
 langchain_community
 fastembed
-tqdm==v4.19.1
+tqdm
